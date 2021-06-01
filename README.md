@@ -1,5 +1,5 @@
 # DSA 450
-This repo is collection of Python solutions for the 450 dsa question published by Love babbar. All the solutions are written in python progrmming language.
+This repo is collection of solutions for the 450 dsa question published by Love babbar. All the solutions are written in python progrmming language.
 
 I am using [this](https://450dsa.com/) to keep track of the problems since it allows you to mark problems without actually logging in as it is using the localdb.
 
