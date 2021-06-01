@@ -22,6 +22,21 @@ I am using [this](https://450dsa.com/) to keep track of the problems since it al
 |13| [merge 2 sorted arrays](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/search_and_sort/13.py) |
 |14| [print all subarrays with 0 sum](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/search_and_sort/14.py) |
 |15| [Product array Puzzle](https://practice.geeksforgeeks.org/problems/product-array-puzzle/0) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/search_and_sort/15.py) |
+|16| [Sort array according to count of set bits](https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count/0) | [Link](https://github.com/blackviking27/DSA-450-Python/blob/main/search_and_sort/16.py) |
+|17| [minimum no. of swaps required to sort the array]() | [Link](https://github.com/blackviking27/DSA-450-Python/blob/main/search_and_sort/17.py)|
+|18| [Bishu and Soldiers](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/) | [Link](https://github.com/blackviking27/DSA-450-Python/blob/main/search_and_sort/18.py)|
+|19| [Kth smallest number again](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/kth-smallest-number-again-2/) | [Link](https://github.com/blackviking27/DSA-450-Python/blob/main/search_and_sort/19.py) |
+|20| [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/search_and_sort/21.py)|
+|21| [Book Allocation Problem](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/search_and_sort/22.py)|
+|22| [EKOSPOJ:](https://www.spoj.com/problems/EKO/) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/search_and_sort/23.py)|
+|23| [Job Scheduling Algo](https://www.geeksforgeeks.org/weighted-job-scheduling-log-n-time/) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/search_and_sort/24.py)|
+|24| [Missing Number in AP](https://practice.geeksforgeeks.org/problems/arithmetic-number/0) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/search_and_sort/25.py)|
+|25| [Smallest number with atleastn trailing zeroes infactorial](https://practice.geeksforgeeks.org/problems/smallest-factorial-number5929/1) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/search_and_sort/26.py)|
+|26| [ROTI-Prata SPOJ](https://www.spoj.com/problems/PRATA/) | [Link](https://github.com/blackviking27/DSA-450-Python/blob/main/search_and_sort/27.py) |
+|27| [DoubleHelix SPOJ](https://www.spoj.com/problems/ANARC05B/) | [Link](https://github.com/blackviking27/DSA-450-Python/blob/main/search_and_sort/28.py) |
+|28| [Subset Sums](https://www.spoj.com/problems/SUBSUMS/) | [Link](https://github.com/blackviking27/DSA-450-Python/blob/main/search_and_sort/29.py) |
+|29| [Findthe inversion count](https://practice.geeksforgeeks.org/problems/inversion-of-array/0) | [Link](https://github.com/blackviking27/DSA-450-Python/blob/main/search_and_sort/30.py) |
+|30| [Implement Merge-sort in-place](https://www.geeksforgeeks.org/in-place-merge-sort/) | [Link](https://github.com/blackviking27/DSA-450-Python/blob/main/search_and_sort/31.py) |
 
 
 
