@@ -3,7 +3,7 @@ This repo is collection of solutions for the 450 dsa question published by Love 
 
 I am using [this](https://450dsa.com/) to keep track of the problems since it allows you to mark problems without actually logging in as it is using the localdb.
 
-### Search and Sort
+## Search and Sort
 
 | S.no | Problem |  Solution |
 | --- | --- | --- | 
@@ -38,5 +38,18 @@ I am using [this](https://450dsa.com/) to keep track of the problems since it al
 |29| [Findthe inversion count](https://practice.geeksforgeeks.org/problems/inversion-of-array/0) | [Link](https://github.com/blackviking27/DSA-450-Python/blob/main/search_and_sort/30.py) |
 |30| [Implement Merge-sort in-place](https://www.geeksforgeeks.org/in-place-merge-sort/) | [Link](https://github.com/blackviking27/DSA-450-Python/blob/main/search_and_sort/31.py) |
 
+## Linked List
 
+| S.no | Problem |  Solution |
+| --- | --- | --- | 
+|1|[Write a Program to reverse the Linked List. (Both Iterative and recursive)](https://www.geeksforgeeks.org/reverse-a-linked-list/) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/0.py) |
+|2|[Reverse a Linked List in group of Given Size. [Very Imp]](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/1.py) |
+|3|[Write a program to Detect loop in a linked list.](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/2.py) |
+|4|[Write a program to Delete loop in a linked list.](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/3.py) |
+|5|[Find the starting point of the loop.](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/4.py) |
+|6|[Remove Duplicates in a sorted Linked List.](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/5.py) |
+|7|[Remove Duplicates in a Un-sorted Linked List](https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/6.py) |
+|8|[Write a Program to Move the last element to Front in a Linked List.](https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/7.py) |
+|9|[Add “1” to a number represented as a Linked List.](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/8.py) |
+|10|[Add two numbers represented by linked lists.](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/9.py) |
 
