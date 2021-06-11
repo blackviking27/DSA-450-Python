@@ -52,4 +52,13 @@ I am using [this](https://450dsa.com/) to keep track of the problems since it al
 |8|[Write a Program to Move the last element to Front in a Linked List.](https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/7.py) |
 |9|[Add “1” to a number represented as a Linked List.](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/8.py) |
 |10|[Add two numbers represented by linked lists.](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/9.py) |
-
+|11|[Intersection of two Sorted Linked List.](https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/10.py)|
+|12|[Intersection Point of two Linked Lists.](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/11.py)|
+|13|[	Merge Sort For Linked lists.[Very Important]](https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/12.py)|
+|14|[	Find the middle Element of a linked list.](https://leetcode.com/problems/middle-of-the-linked-list/)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/14.py)|
+|15|[Check if a linked list is a circular linked list.](https://practice.geeksforgeeks.org/problems/circular-linked-list/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/15.py)|
+|16|[Split a Circular linked list into two halves.](https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/16.py)|
+|17|[Write a Program to check whether the Singly Linked list is a palindrome or not.](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/17.py)|
+|18|[Deletion from a Circular Linked List.](https://www.geeksforgeeks.org/deletion-circular-linked-list/)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/18.py)|
+|19|[Reverse a Doubly Linked list.](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/19.py)|
+|20|[Find pairs with a given sum in a DLL.](https://www.geeksforgeeks.org/find-pairs-given-sum-doubly-linked-list/)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/20.py)|
