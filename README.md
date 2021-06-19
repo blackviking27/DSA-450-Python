@@ -62,3 +62,16 @@ I am using [this](https://450dsa.com/) to keep track of the problems since it al
 |18|[Deletion from a Circular Linked List.](https://www.geeksforgeeks.org/deletion-circular-linked-list/)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/18.py)|
 |19|[Reverse a Doubly Linked list.](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/19.py)|
 |20|[Find pairs with a given sum in a DLL.](https://www.geeksforgeeks.org/find-pairs-given-sum-doubly-linked-list/)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/20.py)|
+|21|[Count triplets in a sorted DLL whose sum is equal to given value “X”.](https://www.geeksforgeeks.org/count-triplets-sorted-doubly-linked-list-whose-sum-equal-given-value-x/)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/21.py)|
+|22|[Sort a “k”sorted Doubly Linked list.[Very IMP]](https://www.geeksforgeeks.org/sort-k-sorted-doubly-linked-list/)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/22.py)|
+|23|[	Rotate DoublyLinked list by N nodes.](https://www.geeksforgeeks.org/rotate-doubly-linked-list-n-nodes/)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/23.py)|
+|24|[	Rotate a Doubly Linked list in group of Given Size.[Very IMP]](https://www.geeksforgeeks.org/reverse-doubly-linked-list-groups-given-size/)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/24.py)|
+|25|[	Flatten a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/27.py)|
+|26|[	Sort a LL of 0's, 1's and 2's](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/28.py)|
+|27|[	Clone a linked list with next and random pointer](https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/21.py)|
+|28|[	Merge K sorted Linked list](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/30.py)|
+|29|[	Multiply 2 no. represented by LL](https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/31.py)|
+|30|[	Delete nodes which have a greater value on right side](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/32.py)|
+|31|[	Segregate even and odd nodes in a Linked List](https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list/0)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/33.py)|
+|32|[	Program for n’th node from the end of a Linked List](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/34.py)|
+
