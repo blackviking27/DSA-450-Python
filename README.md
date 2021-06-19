@@ -3,7 +3,7 @@ This repo is collection of solutions for the 450 dsa question published by Love 
 
 I am using [this](https://450dsa.com/) to keep track of the problems since it allows you to mark problems without actually logging in as it is using the localdb.
 
-### Search and Sort
+## Search and Sort
 
 | S.no | Problem |  Solution |
 | --- | --- | --- | 
@@ -38,5 +38,40 @@ I am using [this](https://450dsa.com/) to keep track of the problems since it al
 |29| [Findthe inversion count](https://practice.geeksforgeeks.org/problems/inversion-of-array/0) | [Link](https://github.com/blackviking27/DSA-450-Python/blob/main/search_and_sort/30.py) |
 |30| [Implement Merge-sort in-place](https://www.geeksforgeeks.org/in-place-merge-sort/) | [Link](https://github.com/blackviking27/DSA-450-Python/blob/main/search_and_sort/31.py) |
 
+## Linked List
 
+| S.no | Problem |  Solution |
+| --- | --- | --- | 
+|1|[Write a Program to reverse the Linked List. (Both Iterative and recursive)](https://www.geeksforgeeks.org/reverse-a-linked-list/) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/0.py) |
+|2|[Reverse a Linked List in group of Given Size. [Very Imp]](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/1.py) |
+|3|[Write a program to Detect loop in a linked list.](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/2.py) |
+|4|[Write a program to Delete loop in a linked list.](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/3.py) |
+|5|[Find the starting point of the loop.](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/4.py) |
+|6|[Remove Duplicates in a sorted Linked List.](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/5.py) |
+|7|[Remove Duplicates in a Un-sorted Linked List](https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/6.py) |
+|8|[Write a Program to Move the last element to Front in a Linked List.](https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/7.py) |
+|9|[Add “1” to a number represented as a Linked List.](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/8.py) |
+|10|[Add two numbers represented by linked lists.](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1) |[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/9.py) |
+|11|[Intersection of two Sorted Linked List.](https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/10.py)|
+|12|[Intersection Point of two Linked Lists.](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/11.py)|
+|13|[	Merge Sort For Linked lists.[Very Important]](https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/12.py)|
+|14|[	Find the middle Element of a linked list.](https://leetcode.com/problems/middle-of-the-linked-list/)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/14.py)|
+|15|[Check if a linked list is a circular linked list.](https://practice.geeksforgeeks.org/problems/circular-linked-list/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/15.py)|
+|16|[Split a Circular linked list into two halves.](https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/16.py)|
+|17|[Write a Program to check whether the Singly Linked list is a palindrome or not.](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/17.py)|
+|18|[Deletion from a Circular Linked List.](https://www.geeksforgeeks.org/deletion-circular-linked-list/)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/18.py)|
+|19|[Reverse a Doubly Linked list.](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/19.py)|
+|20|[Find pairs with a given sum in a DLL.](https://www.geeksforgeeks.org/find-pairs-given-sum-doubly-linked-list/)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/20.py)|
+|21|[Count triplets in a sorted DLL whose sum is equal to given value “X”.](https://www.geeksforgeeks.org/count-triplets-sorted-doubly-linked-list-whose-sum-equal-given-value-x/)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/21.py)|
+|22|[Sort a “k”sorted Doubly Linked list.[Very IMP]](https://www.geeksforgeeks.org/sort-k-sorted-doubly-linked-list/)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/22.py)|
+|23|[	Rotate DoublyLinked list by N nodes.](https://www.geeksforgeeks.org/rotate-doubly-linked-list-n-nodes/)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/23.py)|
+|24|[	Rotate a Doubly Linked list in group of Given Size.[Very IMP]](https://www.geeksforgeeks.org/reverse-doubly-linked-list-groups-given-size/)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/24.py)|
+|25|[	Flatten a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/27.py)|
+|26|[	Sort a LL of 0's, 1's and 2's](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/28.py)|
+|27|[	Clone a linked list with next and random pointer](https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/21.py)|
+|28|[	Merge K sorted Linked list](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/30.py)|
+|29|[	Multiply 2 no. represented by LL](https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/31.py)|
+|30|[	Delete nodes which have a greater value on right side](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/32.py)|
+|31|[	Segregate even and odd nodes in a Linked List](https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list/0)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/33.py)|
+|32|[	Program for n’th node from the end of a Linked List](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)|[Link](https://github.com/blackviking27/DSA-450-Python/blob/main/linked_list/34.py)|
 
