@@ -16,7 +16,7 @@ class Solution:
         for i in range(n):
             if arr[i] - k >= 0:
                 v.append([arr[i] - k, i]) # naegative variation
-            v.append([arr[i] + k, i]) # positiv variation
+            v.append([arr[i] + k, i]) # positive variation
         
         v.sort() # sorting the array according to the heights
 
