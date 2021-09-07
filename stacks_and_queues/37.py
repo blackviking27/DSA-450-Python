@@ -19,6 +19,25 @@ def nextSmallerElement(arr, n):
 
     return res
 
+# traversing from the start
+def nse(arr):
+    n = len(arr)
+    stack = [[arr[0], 0]] # stores the elements
+    res = [-1] * n # stores the result
+    
+    for i in range(1, n):
+        # if top of the stack is greater than the current element then
+        # the current element is the next smaller element for every element in the stack which
+        # is greater than the current element.
+        while stack and stack[-1][0] > arr[i]:
+            res[stack.pop()[1]] = arr[i]
+        
+        # appending the current element to the stack
+        stack.append([arr[i], i])
+    
+    return res
+    
+
 
 # driver code
 # arr = [11, 13, 21, 3]
